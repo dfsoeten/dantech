@@ -9,8 +9,8 @@ file = "config/solarflux/panels.cfg"
 hash = "a6a740b87850a68a8c856c7d0dc8924bb21309059759d63b00de9ef4e709f271"
 
 [[files]]
-file = "kubejs/server_scripts/hostile-neural-netoworks.js"
-hash = "cedc751e940879269105960f0bf35500d6fc4a4409b0ca5c8ae8b2e3e2ef335e"
+file = "kubejs/server_scripts/hostile-neural-networks.js"
+hash = "71bc09cb86c5a0e51c48278f74a58eb6b9a24c131fda97d7625291544f524c1b"
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
@@ -75,6 +75,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
 metafile = true
 
 [[files]]
