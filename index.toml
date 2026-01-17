@@ -25,6 +25,11 @@ hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "74021b36457eb31ff79c6dd0974b1d624c15fec5416833273b4f7a621946270f"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "2581c158a3335ec178acac32452224f0b5ae371001d99bd7757827f470abef50"
 metafile = true
