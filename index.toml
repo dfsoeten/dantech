@@ -9,6 +9,10 @@ file = "config/solarflux/panels.cfg"
 hash = "a6a740b87850a68a8c856c7d0dc8924bb21309059759d63b00de9ef4e709f271"
 
 [[files]]
+file = "kubejs/server_scripts/hostile-neural-netoworks.js"
+hash = "cedc751e940879269105960f0bf35500d6fc4a4409b0ca5c8ae8b2e3e2ef335e"
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "afd9837f16b0b8fe16fe8788470334b7bb13d9c452f46a058d1a2c012f079adf"
 metafile = true
@@ -94,6 +98,11 @@ hash = "f61a3526d323d232fbac74dedb5d89e07f45981db1c5a705c66dbe5da7507a68"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "395ed890024bdb90e7c0fed1edf8b3905a367942ded954fca92384c76a7e5601"
+metafile = true
+
+[[files]]
 file = "mods/mekajadeupgrades.pw.toml"
 hash = "52705a11a847b42a34892a5978713db458d73c1368a5ffbedc4dfdc68c56a75b"
 metafile = true
@@ -151,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "8379747fafa54270c5565e0e243ca14e0f9ad1a6636fde0abac7db8a9d0deca1"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
 metafile = true
 
 [[files]]
