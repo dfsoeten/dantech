@@ -123,6 +123,11 @@ hash = "395ed890024bdb90e7c0fed1edf8b3905a367942ded954fca92384c76a7e5601"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "b9a0690a13cd849af6fe942cf34e5c44c4e5ac53c5f0b3bc986070ecb7f266b3"
+metafile = true
+
+[[files]]
 file = "mods/mekajadeupgrades.pw.toml"
 hash = "52705a11a847b42a34892a5978713db458d73c1368a5ffbedc4dfdc68c56a75b"
 metafile = true
@@ -185,6 +190,16 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "8379747fafa54270c5565e0e243ca14e0f9ad1a6636fde0abac7db8a9d0deca1"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "71f638c4d9efeaca22061f5e5690e40710284928b836ec936ba8a375afa8dff1"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "ab4897860cab54da7523478c82681686f09312171f84554b446ffea0ccc53a96"
 metafile = true
 
 [[files]]
