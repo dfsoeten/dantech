@@ -25,6 +25,11 @@ hash = "2fee21be9505fb8a1a199aa5dc7a5d6a0687e86c08951fe396afd5dcfdb0ac45"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "f557ccd936f4ea169e747a037bcff023594c343c726722034fa7b57804d3f10d"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b16ee8ff10576cf6ef43fd6a2828463faf96de88e6409f9ee6b3dd31645d282d"
 metafile = true
