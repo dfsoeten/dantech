@@ -6,7 +6,7 @@ hash = "07d4c457d0ce10cab41820db25c939c9c61446227d40f17cdde02565c5cb2b5d"
 
 [[files]]
 file = "config/solarflux/panels.cfg"
-hash = "b111208c563e4fc57218997d20db0fd62310c5b2ee04f15e99d7a825416fe7d2"
+hash = "c7afe4566280f0524b30332d732ac8490d041780563048b2e658531ee10db42a"
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
