@@ -203,6 +203,11 @@ hash = "00b5410e4e61d67f4c6b67a6eeb1f3da5092d6775c0b3d26b321d7d8ecee65db"
 metafile = true
 
 [[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "9f0cd1d096b591cb49077fbe4f95a1e24a93354cd9b4d77e74c49af2d29381cf"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "de4e42a8d1496f13ddd6c54f291e87e0e802c0deb08ef37daf8d2887c8657ee3"
 metafile = true
