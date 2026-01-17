@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/tiers.toml"
+hash = "07d4c457d0ce10cab41820db25c939c9c61446227d40f17cdde02565c5cb2b5d"
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "3a0da1a01f5281b39b00612f283b405e2d6c64d058cdf0571982a60480afe048"
 metafile = true
