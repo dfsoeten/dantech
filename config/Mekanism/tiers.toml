@@ -132,19 +132,19 @@
 	#The number of items Basic bins can store.
 	# Default: 4096
 	# Range: > 1
-	basicCapacity = 4096
+	basicCapacity = 16384
 	#The number of items Advanced bins can store.
 	# Default: 8192
 	# Range: > 1
-	advancedCapacity = 8192
+	advancedCapacity = 524288
 	#The number of items Elite bins can store.
 	# Default: 32768
 	# Range: > 1
-	eliteCapacity = 32768
+	eliteCapacity = 67108864
 	#The number of items Ultimate bins can store.
 	# Default: 262144
 	# Range: > 1
-	ultimateCapacity = 262144
+	ultimateCapacity = 2147483647
 	#The number of items Creative bins can store.
 	# Default: 2147483647
 	# Range: > 1
