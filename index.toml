@@ -35,6 +35,11 @@ hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "a930b919e6edc62681559da1ebfcdf4873568ad58a0f5d9f73da0093e92ade7b"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
@@ -42,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-mekanism-multiblocks.pw.toml"
 hash = "74021b36457eb31ff79c6dd0974b1d624c15fec5416833273b4f7a621946270f"
+metafile = true
+
+[[files]]
+file = "mods/mekajadeupgrades.pw.toml"
+hash = "52705a11a847b42a34892a5978713db458d73c1368a5ffbedc4dfdc68c56a75b"
 metafile = true
 
 [[files]]
