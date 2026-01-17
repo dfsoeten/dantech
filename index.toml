@@ -5,6 +5,10 @@ file = "config/Mekanism/tiers.toml"
 hash = "07d4c457d0ce10cab41820db25c939c9c61446227d40f17cdde02565c5cb2b5d"
 
 [[files]]
+file = "config/solarflux/panels.cfg"
+hash = "b111208c563e4fc57218997d20db0fd62310c5b2ee04f15e99d7a825416fe7d2"
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "3a0da1a01f5281b39b00612f283b405e2d6c64d058cdf0571982a60480afe048"
 metafile = true
@@ -22,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/extrastorage.pw.toml"
 hash = "f0eb56417b0e2594af6bc6edd9bbdaea7038a18040bca259e8ccfa40b2b9d269"
+metafile = true
+
+[[files]]
+file = "mods/hammer-lib.pw.toml"
+hash = "9b8962702b35ed62501aa63a45319f93a8eb06fc05469a1e72c7db3c7dd0e452"
 metafile = true
 
 [[files]]
@@ -117,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/solar-flux-reborn.pw.toml"
+hash = "00b5410e4e61d67f4c6b67a6eeb1f3da5092d6775c0b3d26b321d7d8ecee65db"
 metafile = true
 
 [[files]]
