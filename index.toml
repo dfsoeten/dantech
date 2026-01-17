@@ -9,6 +9,11 @@ file = "config/solarflux/panels.cfg"
 hash = "a6a740b87850a68a8c856c7d0dc8924bb21309059759d63b00de9ef4e709f271"
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "afd9837f16b0b8fe16fe8788470334b7bb13d9c452f46a058d1a2c012f079adf"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "2bbc57f2edb0c4045b2b46f0126e109d9a8cf72153cd7084cb78f6e3311adb38"
 metafile = true
