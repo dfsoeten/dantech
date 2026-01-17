@@ -153,6 +153,11 @@ hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-jei-integration.pw.toml"
 hash = "4ef51a87a42bf93295c8af21e543d41b204a7b604a810a2329923937362d2e61"
 metafile = true
