@@ -25,6 +25,21 @@ hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "2581c158a3335ec178acac32452224f0b5ae371001d99bd7757827f470abef50"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "a04147d9f39521c236191f913ac7fd8f177cc3ae073d5cb01be52bcede9acab2"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "cf382b0b1ea1f25c133779b6ea340a5953dec3272bfaef17b6b499b4e59cc515"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "2fee21be9505fb8a1a199aa5dc7a5d6a0687e86c08951fe396afd5dcfdb0ac45"
 metafile = true
