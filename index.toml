@@ -247,6 +247,11 @@ hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "23d873430afcc70fb541313d4db2572df19839cafeb1b2e000ee4c7d9376d549"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b16ee8ff10576cf6ef43fd6a2828463faf96de88e6409f9ee6b3dd31645d282d"
 metafile = true
