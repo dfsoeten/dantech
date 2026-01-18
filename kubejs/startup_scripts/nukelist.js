@@ -6,5 +6,8 @@ global.nukelist = {
         'effortlessbuilding:reach_upgrade3',
         'effortlessbuilding:muscles',
         'effortlessbuilding:elastic_hand',
+
+        // Hostile Neural Networks
+        'hostilenetworks:twilight_prediction'
     ]
 }
