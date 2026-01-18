@@ -25,6 +25,14 @@ file = "config/iris.properties"
 hash = "088912d9be27bf197bd0e126731bf42fa03fde2e1d0f938ef707fc0e0069c1ef"
 
 [[files]]
+file = "config/sodium-extra-options.json"
+hash = "1b36f183cb1364d88ab955f8028f368a70db963a5d2d73bbceaeb37b01b3e601"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "73786e9cd2e4013878ba9a595994a8501fd04c416d8323741ed0bace36682218"
+
+[[files]]
 file = "config/solarflux/panels.cfg"
 hash = "a6a740b87850a68a8c856c7d0dc8924bb21309059759d63b00de9ef4e709f271"
 
@@ -341,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9a69586600b4e36d1ac527f910fc1277f59d13269fddc65e9b1c6166a0d7b073"
+hash = "0ae8fbd861f2523c56fe2feec37c98ebf027cecbf173978692979f8325f44d65"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
