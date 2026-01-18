@@ -114,7 +114,7 @@ _version = 3
 	[common.multiThreading]
 		#
 		# How many threads should be used by Distant Horizons?
-		numberOfThreads = 16
+		numberOfThreads = 32
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -231,7 +231,7 @@ _version = 3
 		# CHAT 
 		# LOG 
 		# DISABLED
-		showGenerationProgress = "CHAT"
+		showGenerationProgress = "OVERLAY"
 		#
 		# The max radius in chunks around the central point where world generation is allowed. 
 		# If this value is set to 0, generation bounds are disabled and the render distance will be used. 
@@ -460,7 +460,7 @@ _version = 3
 				#  overhangs or walls for floating objects. 
 				#  Tweaking the caveCullingHeight, can resolve some 
 				#  of those issues.
-				enableCaveCulling = true
+				enableCaveCulling = false
 				#
 				# Identical to the other frustum culling option
 				# only used when a shader mod is present using the DH API
@@ -641,7 +641,7 @@ _version = 3
 				# 
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: EXTREME
-				verticalQuality = "MEDIUM"
+				verticalQuality = "EXTREME"
 				#
 				# What blocks shouldn't be rendered as LODs? 
 				# 
@@ -672,7 +672,7 @@ _version = 3
 				# This indicates how quickly LODs decrease in quality the further away they are. 
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "MEDIUM"
+				horizontalQuality = "EXTREME"
 				#
 				# How should LOD transparency be handled. 
 				# 

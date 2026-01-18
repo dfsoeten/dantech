@@ -6,7 +6,7 @@ hash = "8f204a5e3f15ec92e9e56cd0e741e89baa41e97cb1c8cf7883b56347cadcb6c8"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "9660222adcdee67edb940462873aa4cd9352ca2ede608e78264067bd72de079b"
+hash = "40e1c191adff4936585b5c376808181e5970e645645d2014307d22c6ff24d915"
 
 [[files]]
 file = "config/Mekanism/general.toml"
