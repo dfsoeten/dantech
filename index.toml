@@ -177,6 +177,11 @@ hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "9749d73e7add8942aa12ca754ed46d4549f2148bc9f169f4ce94d19f6c5fb4b5"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "f557ccd936f4ea169e747a037bcff023594c343c726722034fa7b57804d3f10d"
 metafile = true
@@ -257,6 +262,11 @@ hash = "00b5410e4e61d67f4c6b67a6eeb1f3da5092d6775c0b3d26b321d7d8ecee65db"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "36bc1bb632d1203c91d99298214b08b6babc7da301fff00fded2a1f705592f17"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "9f0cd1d096b591cb49077fbe4f95a1e24a93354cd9b4d77e74c49af2d29381cf"
 metafile = true
@@ -264,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "de4e42a8d1496f13ddd6c54f291e87e0e802c0deb08ef37daf8d2887c8657ee3"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
