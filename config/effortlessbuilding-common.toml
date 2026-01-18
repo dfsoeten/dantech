@@ -7,16 +7,16 @@
 	#Consume Power Level upgrades to permanently increase this.
 	# Default: 0
 	# Range: 0 ~ 1000
-	reachLevel0 = 0
+	reachLevel0 = 200
 	# Default: 8
 	# Range: 0 ~ 1000
-	reachLevel1 = 8
+	reachLevel1 = 200
 	# Default: 16
 	# Range: 0 ~ 1000
-	reachLevel2 = 16
+	reachLevel2 = 200
 	# Default: 32
 	# Range: 0 ~ 1000
-	reachLevel3 = 32
+	reachLevel3 = 200
 
 [MaxBlocksPlacedAtOnce]
 	#How many blocks can be placed in one click.
@@ -28,16 +28,16 @@
 	#Set to 0 to disable Effortless Building until the player has increased their Building Power Level.
 	# Default: 128
 	# Range: 0 ~ 100000
-	maxBlocksPlacedAtOnceLevel0 = 128
+	maxBlocksPlacedAtOnceLevel0 = 10000
 	# Default: 192
 	# Range: 0 ~ 100000
-	maxBlocksPlacedAtOnceLevel1 = 192
+	maxBlocksPlacedAtOnceLevel1 = 10000
 	# Default: 320
 	# Range: 0 ~ 100000
-	maxBlocksPlacedAtOnceLevel2 = 320
+	maxBlocksPlacedAtOnceLevel2 = 10000
 	# Default: 640
 	# Range: 0 ~ 100000
-	maxBlocksPlacedAtOnceLevel3 = 640
+	maxBlocksPlacedAtOnceLevel3 = 10000
 
 [MaxBlocksPerAxis]
 	#How many blocks can be placed at once per axis when using build modes (e.g. walls).
@@ -49,16 +49,16 @@
 	#Consume Power Level upgrades to permanently increase this.
 	# Default: 8
 	# Range: 0 ~ 1000
-	maxBlocksPerAxisLevel0 = 8
+	maxBlocksPerAxisLevel0 = 1000
 	# Default: 12
 	# Range: 0 ~ 1000
-	maxBlocksPerAxisLevel1 = 12
+	maxBlocksPerAxisLevel1 = 1000
 	# Default: 16
 	# Range: 0 ~ 1000
-	maxBlocksPerAxisLevel2 = 16
+	maxBlocksPerAxisLevel2 = 1000
 	# Default: 20
 	# Range: 0 ~ 1000
-	maxBlocksPerAxisLevel3 = 20
+	maxBlocksPerAxisLevel3 = 1000
 
 [MaxMirrorRadius]
 	#The maximum (radial) mirror radius.
@@ -69,13 +69,13 @@
 	#Consume Power Level upgrades upgrades to permanently increase this.
 	# Default: 16
 	# Range: 0 ~ 1000
-	maxMirrorRadiusLevel0 = 16
+	maxMirrorRadiusLevel0 = 200
 	# Default: 32
 	# Range: 0 ~ 1000
-	maxMirrorRadiusLevel1 = 32
+	maxMirrorRadiusLevel1 = 200
 	# Default: 48
 	# Range: 0 ~ 1000
-	maxMirrorRadiusLevel2 = 48
+	maxMirrorRadiusLevel2 = 200
 	# Default: 64
 	# Range: 0 ~ 1000
-	maxMirrorRadiusLevel3 = 64
+	maxMirrorRadiusLevel3 = 200

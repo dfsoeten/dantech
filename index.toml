@@ -14,15 +14,27 @@ hash = "07d4c457d0ce10cab41820db25c939c9c61446227d40f17cdde02565c5cb2b5d"
 
 [[files]]
 file = "config/effortlessbuilding-common.toml"
-hash = "05a60bc7967f3f1326d7a412233cd3317d9f9ba90fe4e8112cf2fe9e5937c6c2"
+hash = "8e6000ef5bfe0b2bb3bde9279c955d59268d34f7b7e2329ab3269637535c1ab4"
 
 [[files]]
 file = "config/solarflux/panels.cfg"
 hash = "a6a740b87850a68a8c856c7d0dc8924bb21309059759d63b00de9ef4e709f271"
 
 [[files]]
+file = "kubejs/client_scripts/nukelist.js"
+hash = "8008e8c85a4bbe69b7d7d479c87b33177c2d955d0fc5f2eb9cd0fdb817d46994"
+
+[[files]]
 file = "kubejs/server_scripts/hostile-neural-networks.js"
 hash = "71bc09cb86c5a0e51c48278f74a58eb6b9a24c131fda97d7625291544f524c1b"
+
+[[files]]
+file = "kubejs/server_scripts/nukelist.js"
+hash = "0a9dbf9be837bfae1c508dccb9823240fa06ab21400aa139256ab33025e0c4aa"
+
+[[files]]
+file = "kubejs/startup_scripts/nukelist.js"
+hash = "20fb58fdbafe18bf7870c2871b08131132410ce68ac9110953171a4f35eb142e"
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
