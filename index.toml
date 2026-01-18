@@ -46,6 +46,11 @@ hash = "e2271f01117b2e3469832199b0830aacd678be821b4a4121fadd1805e0256195"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "9eed5211ec173caa872706cd0d1bd0b799826059bb9ba078a52156d78f13e0a3"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "b4085a5772cddefe655155a25d0d24d2f8f34017c61d9cd786d7a9868abf9092"
 metafile = true
