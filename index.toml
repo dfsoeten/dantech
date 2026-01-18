@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "8f204a5e3f15ec92e9e56cd0e741e89baa41e97cb1c8cf7883b56347cadcb6c8"
+
+[[files]]
+file = "config/Mekanism/general.toml"
+hash = "6a49a2810766c272012bf72aa298364b09a963d3d613515f3a591f3d103ed95d"
+
+[[files]]
 file = "config/Mekanism/tiers.toml"
 hash = "07d4c457d0ce10cab41820db25c939c9c61446227d40f17cdde02565c5cb2b5d"
 
