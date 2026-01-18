@@ -182,6 +182,11 @@ hash = "f557ccd936f4ea169e747a037bcff023594c343c726722034fa7b57804d3f10d"
 metafile = true
 
 [[files]]
+file = "mods/ore-excavation.pw.toml"
+hash = "8a32a12fac64157e5773f60611f565e1335c4d5b9b5c7f679de5f70dc65e6409"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
