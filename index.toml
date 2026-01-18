@@ -87,6 +87,16 @@ hash = "a3d47e3c301ed2359820c2083dcddec8240a5d692a016c42a74eecc1193772e1"
 metafile = true
 
 [[files]]
+file = "mods/flat-bedrock.pw.toml"
+hash = "d17382ebb5d2d2f7e56e9fbb71b4b9d7ec9a61134dec3de9ef8bfaab876c205a"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "5d3594b79a50d63e6966fd45b7ff83b9ee4dbd67d611a276141e96a5feef91ff"
+metafile = true
+
+[[files]]
 file = "mods/hammer-lib.pw.toml"
 hash = "9b8962702b35ed62501aa63a45319f93a8eb06fc05469a1e72c7db3c7dd0e452"
 metafile = true
@@ -139,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "395ed890024bdb90e7c0fed1edf8b3905a367942ded954fca92384c76a7e5601"
+metafile = true
+
+[[files]]
+file = "mods/large-ore-deposits.pw.toml"
+hash = "ba6cf26620c7308faf9228fd9211bee76533a682c760039c47159f6a799856a7"
 metafile = true
 
 [[files]]
@@ -252,6 +267,11 @@ hash = "23d873430afcc70fb541313d4db2572df19839cafeb1b2e000ee4c7d9376d549"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "f0921e672c9519eff90da52406b64f84661604f067fc7bd3361f1906b2788344"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b16ee8ff10576cf6ef43fd6a2828463faf96de88e6409f9ee6b3dd31645d282d"
 metafile = true
@@ -274,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "9f0cd1d096b591cb49077fbe4f95a1e24a93354cd9b4d77e74c49af2d29381cf"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "0e02e93b9468dca005f7fea385e92612e38bb6807f4dcd64ce7a4b22fac78581"
 metafile = true
 
 [[files]]
