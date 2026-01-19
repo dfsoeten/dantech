@@ -118,11 +118,6 @@ hash = "5d3594b79a50d63e6966fd45b7ff83b9ee4dbd67d611a276141e96a5feef91ff"
 metafile = true
 
 [[files]]
-file = "mods/hammer-lib.pw.toml"
-hash = "9b8962702b35ed62501aa63a45319f93a8eb06fc05469a1e72c7db3c7dd0e452"
-metafile = true
-
-[[files]]
 file = "mods/hostile-neural-networks.pw.toml"
 hash = "90f96f9e48eea134f5a399b859d4977d6166a1711c917224375ce832b0b9cf53"
 metafile = true
@@ -305,11 +300,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
-metafile = true
-
-[[files]]
-file = "mods/solar-flux-reborn.pw.toml"
-hash = "00b5410e4e61d67f4c6b67a6eeb1f3da5092d6775c0b3d26b321d7d8ecee65db"
 metafile = true
 
 [[files]]
