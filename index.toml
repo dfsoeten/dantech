@@ -18,7 +18,7 @@ hash = "07d4c457d0ce10cab41820db25c939c9c61446227d40f17cdde02565c5cb2b5d"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
-hash = "2b9c117e3567e4dbded1a41040052d5fd63a1784e5acd2186b576dea3dc461d8"
+hash = "4fda4b7a5ee3246665c03c8b1492313b074ed2b4d4f5d70891e4ac4763d4a503"
 
 [[files]]
 file = "config/effortlessbuilding-common.toml"
