@@ -188,6 +188,11 @@ hash = "ba6cf26620c7308faf9228fd9211bee76533a682c760039c47159f6a799856a7"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "92f8cdfdc3e3f14a3cb6b35b639c955c87bed7d3089485e4e2a40fb50f70c94b"
+metafile = true
+
+[[files]]
 file = "mods/mekajadeupgrades.pw.toml"
 hash = "198d6aee95af8ed72e535a4f5662e9e9299c182e2c41ffad1e0e4d2c9192fb6f"
 metafile = true
@@ -315,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "9f0cd1d096b591cb49077fbe4f95a1e24a93354cd9b4d77e74c49af2d29381cf"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "f1b4f0080de1ab714d033e2f9c492073cc1f41de3c44337a1407dbb81b0e5054"
 metafile = true
 
 [[files]]
