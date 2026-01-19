@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "82c48d692411e08039e242286f40c49f08d62bf544a99093a27261e64edc46bb"
+hash = "7dc72a1bfdf40b6400ebb660fd4cb7f84a818df1b23023c4918d7a781ecc86d1"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -73,6 +73,11 @@ hash = "2bbc57f2edb0c4045b2b46f0126e109d9a8cf72153cd7084cb78f6e3311adb38"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "9920b3cadb064073516f8d678e09c0d13a146bc3058725d036323852e5e18f15"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
@@ -125,6 +130,11 @@ metafile = true
 [[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "5d3594b79a50d63e6966fd45b7ff83b9ee4dbd67d611a276141e96a5feef91ff"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "80a692427106934e28d22c655d51e136cc5e9b3793139c63b7b014a4b6c9a11d"
 metafile = true
 
 [[files]]
@@ -295,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "23d873430afcc70fb541313d4db2572df19839cafeb1b2e000ee4c7d9376d549"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "3690553ce7c729bbf10d37012b93266ff877814af1e95fc22b86f5cb013ca53f"
 metafile = true
 
 [[files]]
