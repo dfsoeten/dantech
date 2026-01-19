@@ -33,10 +33,6 @@ file = "config/sodium-options.json"
 hash = "73786e9cd2e4013878ba9a595994a8501fd04c416d8323741ed0bace36682218"
 
 [[files]]
-file = "config/solarflux/panels.cfg"
-hash = "a6a740b87850a68a8c856c7d0dc8924bb21309059759d63b00de9ef4e709f271"
-
-[[files]]
 file = "kubejs/client_scripts/nukelist.js"
 hash = "8008e8c85a4bbe69b7d7d479c87b33177c2d955d0fc5f2eb9cd0fdb817d46994"
 
@@ -173,11 +169,6 @@ hash = "ba6cf26620c7308faf9228fd9211bee76533a682c760039c47159f6a799856a7"
 metafile = true
 
 [[files]]
-file = "mods/mcjtylib.pw.toml"
-hash = "b9a0690a13cd849af6fe942cf34e5c44c4e5ac53c5f0b3bc986070ecb7f266b3"
-metafile = true
-
-[[files]]
 file = "mods/mekajadeupgrades.pw.toml"
 hash = "198d6aee95af8ed72e535a4f5662e9e9299c182e2c41ffad1e0e4d2c9192fb6f"
 metafile = true
@@ -258,16 +249,6 @@ hash = "8379747fafa54270c5565e0e243ca14e0f9ad1a6636fde0abac7db8a9d0deca1"
 metafile = true
 
 [[files]]
-file = "mods/rftools-base.pw.toml"
-hash = "71f638c4d9efeaca22061f5e5690e40710284928b836ec936ba8a375afa8dff1"
-metafile = true
-
-[[files]]
-file = "mods/rftools-builder.pw.toml"
-hash = "ab4897860cab54da7523478c82681686f09312171f84554b446ffea0ccc53a96"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
 metafile = true
@@ -339,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0ae8fbd861f2523c56fe2feec37c98ebf027cecbf173978692979f8325f44d65"
+hash = "cf2b01bbbed0aa9d026039cbebcef25aaffe8236aa31e4680609ea6b008ab90e"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
