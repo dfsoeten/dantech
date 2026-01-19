@@ -3,6 +3,7 @@ Dantech is a lightweight tech-focussed Minecraft modpack for 1.21.1 based on Neo
 
 Highlights include:
 1. Tech focus with mods like [Mekanism](www.curseforge.com/minecraft/mc-mods/mekanism) and [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech).
+2. Amazing world generation using [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) and [Tectonic](https://www.curseforge.com/minecraft/mc-mods/tectonic).
 
 ## Development
 Dantech is built using [Packwiz](https://github.com/packwiz/packwiz).
