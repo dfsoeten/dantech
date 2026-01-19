@@ -48,7 +48,7 @@ mouseSensitivity:0.3544600938967137
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","file/JetBrainsMonoFont"]
+resourcePacks:["vanilla","fabric","mod_resources","file/JetBrainsMonoFont","continuity:glass_pane_culling_fix","continuity:default"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
