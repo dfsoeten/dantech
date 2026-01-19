@@ -37,6 +37,10 @@ file = "config/sodium-options.json"
 hash = "73786e9cd2e4013878ba9a595994a8501fd04c416d8323741ed0bace36682218"
 
 [[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "3dc162923132417a309be76de95ba395a8268612eea2c50767dbd84b185e2d6c"
+
+[[files]]
 file = "kubejs/client_scripts/nukelist.js"
 hash = "8008e8c85a4bbe69b7d7d479c87b33177c2d955d0fc5f2eb9cd0fdb817d46994"
 
