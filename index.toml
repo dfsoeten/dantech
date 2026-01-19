@@ -79,11 +79,6 @@ hash = "9eed5211ec173caa872706cd0d1bd0b799826059bb9ba078a52156d78f13e0a3"
 metafile = true
 
 [[files]]
-file = "mods/enchanting-infuser.pw.toml"
-hash = "3e8a9ec415629e8eb74f8755b62cc9551fe2411ea14664507f865b26987c67c9"
-metafile = true
-
-[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "b4085a5772cddefe655155a25d0d24d2f8f34017c61d9cd786d7a9868abf9092"
 metafile = true
@@ -216,11 +211,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
 metafile = true
 
 [[files]]
