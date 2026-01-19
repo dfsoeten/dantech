@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "8f204a5e3f15ec92e9e56cd0e741e89baa41e97cb1c8cf7883b56347cadcb6c8"
+hash = "82c48d692411e08039e242286f40c49f08d62bf544a99093a27261e64edc46bb"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -51,6 +51,16 @@ hash = "56b6dbca84e0fd441095790f7bf4ce596636e479692482e851cc4850c97d451d"
 [[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "afd9837f16b0b8fe16fe8788470334b7bb13d9c452f46a058d1a2c012f079adf"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
 metafile = true
 
 [[files]]
@@ -106,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "5d3594b79a50d63e6966fd45b7ff83b9ee4dbd67d611a276141e96a5feef91ff"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e448ed8448354d972dcd3ef7c46833e58de16147fe947a969538bf80efad6de9"
 metafile = true
 
 [[files]]
@@ -206,6 +221,16 @@ metafile = true
 [[files]]
 file = "mods/ore-excavation.pw.toml"
 hash = "8a32a12fac64157e5773f60611f565e1335c4d5b9b5c7f679de5f70dc65e6409"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "d67c4d19ce7de51e6748453defe381873b32bae6d8a55dd79804e60e03e63cc9"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
 
 [[files]]
