@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "minecraft:jetbrains-mono.ttf",
+      "shift": [0, 0.5],
+      "size": 8.0,
+      "oversample": 3.0
+    }
+  ]
+}

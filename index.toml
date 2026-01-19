@@ -347,6 +347,18 @@ file = "options.txt"
 hash = "cf2b01bbbed0aa9d026039cbebcef25aaffe8236aa31e4680609ea6b008ab90e"
 
 [[files]]
+file = "resourcepacks/JetBrainsMonoFont/assets/minecraft/font/default.json"
+hash = "4410582a63a818cf40dbf02c80e3cf0764431b2a183a16d24e1cd7afad14905f"
+
+[[files]]
+file = "resourcepacks/JetBrainsMonoFont/assets/minecraft/font/jetbrains-mono.ttf"
+hash = "192a3158a926768d1fa520164f0fb0f40a6ad085435aa854e43eb14cb40d1aab"
+
+[[files]]
+file = "resourcepacks/JetBrainsMonoFont/pack.mcmeta"
+hash = "45813f826017536654c3998d154973985c11e5b73183e1b18f71eaef9829639f"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
 metafile = true
