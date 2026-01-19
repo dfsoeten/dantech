@@ -17,6 +17,10 @@ file = "config/Mekanism/tiers.toml"
 hash = "07d4c457d0ce10cab41820db25c939c9c61446227d40f17cdde02565c5cb2b5d"
 
 [[files]]
+file = "config/darkmodeeverywhere-client.toml"
+hash = "9362f2ceaf95814f59f6785cc11abe378f68116fcf716321b39f356b7ae61224"
+
+[[files]]
 file = "config/effortlessbuilding-common.toml"
 hash = "8e6000ef5bfe0b2bb3bde9279c955d59268d34f7b7e2329ab3269637535c1ab4"
 
