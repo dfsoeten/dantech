@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e0381de0ce4867b5e6565fcc4fd1106bcf2688a79c1cbbe06fac7ae7618e9e51"
+hash = "6753822f5361e344fff2147848839f013643d213f562dffd57026458dd97f0e9"
 
 [[files]]
 file = "resourcepacks/JetBrainsMonoFont/assets/minecraft/font/default.json"
