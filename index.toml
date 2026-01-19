@@ -18,7 +18,7 @@ hash = "07d4c457d0ce10cab41820db25c939c9c61446227d40f17cdde02565c5cb2b5d"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
-hash = "9362f2ceaf95814f59f6785cc11abe378f68116fcf716321b39f356b7ae61224"
+hash = "2b9c117e3567e4dbded1a41040052d5fd63a1784e5acd2186b576dea3dc461d8"
 
 [[files]]
 file = "config/effortlessbuilding-common.toml"
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cf2b01bbbed0aa9d026039cbebcef25aaffe8236aa31e4680609ea6b008ab90e"
+hash = "ba286761283955ec198cdc9c85dab6eca7f8f4107cb5f1609993d7f8bf45f1f0"
 
 [[files]]
 file = "resourcepacks/JetBrainsMonoFont/assets/minecraft/font/default.json"
