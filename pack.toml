@@ -1,11 +1,11 @@
-name = "Modpack"
+name = "Dantech"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "918556658a7f57db510df68cf8a4d7f6bca3b5e1cdfbeb3e60567b140558d02c"
+hash = "6febbd7ec268ac2a6dc944355757dc8f37a3fffce989e21ab31466a09f1584a1"
 
 [versions]
 minecraft = "1.21.1"
