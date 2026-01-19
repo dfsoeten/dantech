@@ -30,7 +30,7 @@ hash = "088912d9be27bf197bd0e126731bf42fa03fde2e1d0f938ef707fc0e0069c1ef"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "1b36f183cb1364d88ab955f8028f368a70db963a5d2d73bbceaeb37b01b3e601"
+hash = "e4a2484527d399216407d56923b4e9aaae4521a2666bf00f82d437aadce79913"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e43aeb7053f986d5c16cf9e14deca4bb14a231960a0f15d49a2bbe62928e3478"
+hash = "e0381de0ce4867b5e6565fcc4fd1106bcf2688a79c1cbbe06fac7ae7618e9e51"
 
 [[files]]
 file = "resourcepacks/JetBrainsMonoFont/assets/minecraft/font/default.json"
