@@ -44,7 +44,7 @@ toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.3028169014084507
+mouseSensitivity:0.3544600938967137
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
