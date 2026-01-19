@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "7dc72a1bfdf40b6400ebb660fd4cb7f84a818df1b23023c4918d7a781ecc86d1"
+hash = "e623a35fd03d3b41c60a6d2528a8e1f7a98d08b8603ace13b60d532ea319d78b"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -175,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "f3c65260852c67a57fe761cde9fa9340525857942057379d4c9e492591507c65"
 metafile = true
 
 [[files]]
