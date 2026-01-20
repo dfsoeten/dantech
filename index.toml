@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "e623a35fd03d3b41c60a6d2528a8e1f7a98d08b8603ace13b60d532ea319d78b"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "6a1c8a6897eae280ca5ec2bc66ac3e192dcd77900b44d5a002b9218314775177"
 
