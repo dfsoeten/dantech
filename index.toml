@@ -50,7 +50,7 @@ hash = "0a9dbf9be837bfae1c508dccb9823240fa06ab21400aa139256ab33025e0c4aa"
 
 [[files]]
 file = "kubejs/startup_scripts/nukelist.js"
-hash = "56b6dbca84e0fd441095790f7bf4ce596636e479692482e851cc4850c97d451d"
+hash = "95958e25a9e90054d8bb1289c348fb04f03447ec5cb21870a104239f896bffe9"
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
