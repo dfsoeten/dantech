@@ -128,6 +128,11 @@ hash = "5d3594b79a50d63e6966fd45b7ff83b9ee4dbd67d611a276141e96a5feef91ff"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "6a2693aaab21ce7c32b958b81ee5e9cad0d014cdf68c067049b2fc652159d9d1"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e448ed8448354d972dcd3ef7c46833e58de16147fe947a969538bf80efad6de9"
 metafile = true
@@ -384,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "fe8208c0041ad10eecb84f3151647356733956dcfcf10c8c9c05d63afb6119e4"
+hash = "2862bc04e58237b29bd6137268153033a5f092d343d6d48f663d780d6d3ed371"
 
 [[files]]
 file = "resourcepacks/JetBrainsMonoFont/assets/minecraft/font/default.json"
@@ -397,6 +402,16 @@ hash = "192a3158a926768d1fa520164f0fb0f40a6ad085435aa854e43eb14cb40d1aab"
 [[files]]
 file = "resourcepacks/JetBrainsMonoFont/pack.mcmeta"
 hash = "45813f826017536654c3998d154973985c11e5b73183e1b18f71eaef9829639f"
+
+[[files]]
+file = "resourcepacks/fusion-connected-blocks.pw.toml"
+hash = "b5395a87ff650ccd9253568779f85deebf8186645219d4c6461f78645f03f0bd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "9558758e85c4d4e25da6c62d2381e24de2794f1307136ee9b4be98ed32baf6ad"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
