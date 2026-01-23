@@ -7,6 +7,11 @@ Highlights include:
 3. The ability to see the aforementioned world generation using [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) and [Just Zoom](https://www.curseforge.com/minecraft/mc-mods/just-zoom).
 4. Developery feel using the JetBrains Mono font and [Dark Mode Everywhere](https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere) preinstalled.
 
+## How to play
+1. Go to the [releases](https://github.com/dfsoeten/dantech/releases) page for this repo. 
+2. Download the latest `.zip` or `.mrpack` file.
+3. Open your Minecraft launcher, e.g. [Prism Launcher](https://prismlauncher.org/) and create a new instance using the downloaded file.
+
 ## Development
 Dantech is built using [Packwiz](https://github.com/packwiz/packwiz).
 
