@@ -42,7 +42,7 @@ hash = "8008e8c85a4bbe69b7d7d479c87b33177c2d955d0fc5f2eb9cd0fdb817d46994"
 
 [[files]]
 file = "kubejs/server_scripts/hostile-neural-networks.js"
-hash = "71bc09cb86c5a0e51c48278f74a58eb6b9a24c131fda97d7625291544f524c1b"
+hash = "869f9ecd8fc4b6df3f6f0d0b536ad24a693397169c08a6dd1ad14ba12c579fcb"
 
 [[files]]
 file = "kubejs/server_scripts/nukelist.js"
