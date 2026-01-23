@@ -138,6 +138,11 @@ hash = "90f96f9e48eea134f5a399b859d4977d6166a1711c917224375ce832b0b9cf53"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
 hash = "1d3b922c0d1a43fa497faf27827bfa9f9f3841dfba51d8684435d58c1141fe93"
 metafile = true
@@ -203,6 +208,11 @@ hash = "ba6cf26620c7308faf9228fd9211bee76533a682c760039c47159f6a799856a7"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "90884d8e75897120ad7e7a6fc4ad3ab2a08bcf050286a98cac27c7412e043a68"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "92f8cdfdc3e3f14a3cb6b35b639c955c87bed7d3089485e4e2a40fb50f70c94b"
 metafile = true
@@ -265,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "5328219480c6d7aa255c6288f2839b683ffc1bcc52449383244cd11cfbf85f83"
 metafile = true
 
 [[files]]
