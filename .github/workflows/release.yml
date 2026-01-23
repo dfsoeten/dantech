@@ -27,7 +27,7 @@ jobs:
 
       - name: Export Modpacks
         run: |
-          REPO_NAME: ${{ github.event.repository.name }}
+          REPO_NAME=${{ github.event.repository.name }}
           TAG_NAME=${{ github.ref_name }}
           packwiz curseforge export --output "${REPO_NAME}-curseforge-${TAG_NAME}.zip"
           packwiz modrinth export --output "${REPO_NAME}-modrinth-${TAG_NAME}.mrpack"
