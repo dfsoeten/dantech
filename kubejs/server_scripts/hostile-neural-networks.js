@@ -39,11 +39,13 @@ ServerEvents.recipes(event => {
     ]
 
     models.forEach(model => {
-        let mobId = `hostilenetworks:${model[0]}`;
-        let item = `hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:cow", hostilenetworks:data=9999]`;
+        let item = Item.of('hostilenetworks:data_model', {
+            'hostilenetworks:data_model': `hostilenetworks:${model[0]}`,
+            'hostilenetworks:data': 9999
+        });
 
         event.shapeless(
-            Item.of(item), 
+            item, 
             [
                 "hostilenetworks:blank_data_model", 
                 model[1],

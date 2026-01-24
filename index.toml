@@ -34,7 +34,7 @@ hash = "63d6c26c5077c6d88c1800ed22203823d6368f580d7557eb5d7d4b650ebd79b3"
 
 [[files]]
 file = "config/jamd/nether.json"
-hash = "c823c2f92b8cad05aaeac6c1b2127e43ce4172ba2c5d72a77322973930e616b6"
+hash = "631ddf19bd04531a3f1f553e5de02d523293f95fd19f0aabedeb462e024de0f2"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -54,7 +54,7 @@ hash = "8008e8c85a4bbe69b7d7d479c87b33177c2d955d0fc5f2eb9cd0fdb817d46994"
 
 [[files]]
 file = "kubejs/server_scripts/hostile-neural-networks.js"
-hash = "869f9ecd8fc4b6df3f6f0d0b536ad24a693397169c08a6dd1ad14ba12c579fcb"
+hash = "33a5934a1bff08a0948a80bd61ea3c1eac014f082014729e2c6dbdfbe3d5e73a"
 
 [[files]]
 file = "kubejs/server_scripts/nukelist.js"
