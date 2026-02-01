@@ -73,6 +73,10 @@ file = "kubejs/server_scripts/nukelist.js"
 hash = "0a9dbf9be837bfae1c508dccb9823240fa06ab21400aa139256ab33025e0c4aa"
 
 [[files]]
+file = "kubejs/server_scripts/remove-crafting-recipies.js"
+hash = "9b6d99c81697c8a199d5739ee7c57d68d932d1c2a396d1a4e193fa9c9761d2ca"
+
+[[files]]
 file = "kubejs/startup_scripts/nukelist.js"
 hash = "95958e25a9e90054d8bb1289c348fb04f03447ec5cb21870a104239f896bffe9"
 
