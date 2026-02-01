@@ -38,7 +38,7 @@ hash = "631ddf19bd04531a3f1f553e5de02d523293f95fd19f0aabedeb462e024de0f2"
 
 [[files]]
 file = "config/oritech-config.json5"
-hash = "59057684bb1f3e461a633d9d85393070e6670d085436f511f9a3d3ff2199f64b"
+hash = "2b5dd03f72cf29e12a6468ffae94e38a13abf59bc22b5c21532ba4bbdebd087e"
 
 [[files]]
 file = "config/sodium-extra-options.json"

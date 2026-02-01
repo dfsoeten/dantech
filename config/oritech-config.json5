@@ -1,6 +1,6 @@
 {
 	"processingMachines": {
-		"machineFrameMaxLength": 64,
+		"machineFrameMaxLength": 512,
 		"assemblerData": {
 			"energyCapacity": 50000,
 			"maxEnergyInsertion": 1024,
