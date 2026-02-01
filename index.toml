@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "a930b919e6edc62681559da1ebfcdf4873568ad58a0f5d9f73da0093e92ade7b"
+hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "d67c4d19ce7de51e6748453defe381873b32bae6d8a55dd79804e60e03e63cc9"
+hash = "0727c080dffa11ec3a6bb06cd49f1e00f76793e0739da0c8203150039b9f056d"
 metafile = true
 
 [[files]]
