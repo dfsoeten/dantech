@@ -57,6 +57,14 @@ file = "kubejs/client_scripts/nukelist.js"
 hash = "8008e8c85a4bbe69b7d7d479c87b33177c2d955d0fc5f2eb9cd0fdb817d46994"
 
 [[files]]
+file = "kubejs/data/bigreactors/worldgen/placed_feature/yellorite_deepslate_ore.json"
+hash = "9b410a7e65bbaa1927ffbb85bb22c61aa1d7473e2abdccdc8e910e7f207a716a"
+
+[[files]]
+file = "kubejs/data/bigreactors/worldgen/placed_feature/yellorite_ore.json"
+hash = "5511e6087f92b236ccabb9f74117fc414716225061f06e235fe6b0d91e37ea2b"
+
+[[files]]
 file = "kubejs/server_scripts/hostile-neural-networks.js"
 hash = "97a047fed1a3ea36df98a0da1ca8a0ff9fce1c0ceffd2b62adae1ec078856dc9"
 
