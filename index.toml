@@ -10,7 +10,7 @@ hash = "afcf1a4deea02567930ce7e560286989deb616f95f14de9feadf3f3fc866d8e3"
 
 [[files]]
 file = "config/Mekanism/tiers.toml"
-hash = "07d4c457d0ce10cab41820db25c939c9c61446227d40f17cdde02565c5cb2b5d"
+hash = "8e0ecf1d23ee43f1b3ff255d6cc0ba7d494432de2aa03123fc42d0d17c35bffd"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"

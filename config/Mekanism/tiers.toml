@@ -46,35 +46,35 @@
 	#Storage size of Basic fluid tanks in mB.
 	# Default: 32000
 	# Range: > 1
-	basicCapacity = 32000
+	basicCapacity = 64000
 	#Output rate of Basic fluid tanks in mB.
 	# Default: 1000
 	# Range: > 1
-	basicOutput = 1000
+	basicOutput = 2000
 	#Storage size of Advanced fluid tanks in mB.
 	# Default: 64000
 	# Range: > 1
-	advancedCapacity = 64000
+	advancedCapacity = 128000
 	#Output rate of Advanced fluid tanks in mB.
 	# Default: 4000
 	# Range: > 1
-	advancedOutput = 4000
+	advancedOutput = 8000
 	#Storage size of Elite fluid tanks in mB.
 	# Default: 128000
 	# Range: > 1
-	eliteCapacity = 128000
+	eliteCapacity = 384000
 	#Output rate of Elite fluid tanks in mB.
 	# Default: 16000
 	# Range: > 1
-	eliteOutput = 16000
+	eliteOutput = 48000
 	#Storage size of Ultimate fluid tanks in mB.
 	# Default: 256000
 	# Range: > 1
-	ultimateCapacity = 256000
+	ultimateCapacity = 1024000
 	#Output rate of Ultimate fluid tanks in mB.
 	# Default: 64000
 	# Range: > 1
-	ultimateOutput = 64000
+	ultimateOutput = 256000
 	#Storage size of Creative fluid tanks in mB.
 	# Default: 2147483647
 	# Range: > 1
