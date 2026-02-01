@@ -37,6 +37,10 @@ file = "config/jamd/nether.json"
 hash = "631ddf19bd04531a3f1f553e5de02d523293f95fd19f0aabedeb462e024de0f2"
 
 [[files]]
+file = "config/oritech-config.json5"
+hash = "59057684bb1f3e461a633d9d85393070e6670d085436f511f9a3d3ff2199f64b"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "e4a2484527d399216407d56923b4e9aaae4521a2666bf00f82d437aadce79913"
 
