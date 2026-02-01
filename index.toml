@@ -65,6 +65,10 @@ file = "kubejs/data/bigreactors/worldgen/placed_feature/yellorite_ore.json"
 hash = "5511e6087f92b236ccabb9f74117fc414716225061f06e235fe6b0d91e37ea2b"
 
 [[files]]
+file = "kubejs/server_scripts/ender-storage/recipies.js"
+hash = "88a78a4ad8a3ac4bc8dbffde8ec4e76dace7262e60e4ea1f87837abdedee0e6a"
+
+[[files]]
 file = "kubejs/server_scripts/hostile-neural-networks.js"
 hash = "97a047fed1a3ea36df98a0da1ca8a0ff9fce1c0ceffd2b62adae1ec078856dc9"
 
