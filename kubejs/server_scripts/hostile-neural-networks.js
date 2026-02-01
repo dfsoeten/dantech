@@ -16,7 +16,6 @@ ServerEvents.recipes(event => {
         ["vindicator", "minecraft:emerald", "overworld"],
         ["iron_golem", "minecraft:iron_block", "overworld"],
         ["snow_golem", "minecraft:snowball", "overworld"],
-        ["silverfish", "minecraft:infested_stone", "overworld"],
         ["rabbit", "minecraft:rabbit_foot", "overworld"],
         ["polar_bear", "minecraft:cod", "overworld"],
         ["pig", "minecraft:porkchop", "overworld"],
@@ -33,7 +32,7 @@ ServerEvents.recipes(event => {
         ["hoglin", "minecraft:cooked_porkchop", "nether"],
         ["zombified_piglin", "minecraft:gold_ingot", "nether"],
         ["magma_cube", "minecraft:magma_cream", "nether"],
-        ["enderman", "minecraft:ender_pearl", "end"],
+        ["enderman", "minecraft:ender_pearl", "overworld"],
         ["shulker", "minecraft:shulker_shell", "end"],
         ["ender_dragon", "minecraft:dragon_breath", "end"]
     ]
