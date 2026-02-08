@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f3c65260852c67a57fe761cde9fa9340525857942057379d4c9e492591507c65"
+hash = "729cdb84e286f2444198847eb475f3b2d0190aff3cb8c7726497d88577135365"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekajadeupgrades.pw.toml"
-hash = "198d6aee95af8ed72e535a4f5662e9e9299c182e2c41ffad1e0e4d2c9192fb6f"
+hash = "20ba1021bb3047a3c56ffa39b40c97638211934b3fb129b9ee9b66e99387822d"
 metafile = true
 
 [[files]]
@@ -457,5 +457,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
+hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
 metafile = true
