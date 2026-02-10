@@ -73,6 +73,10 @@ file = "kubejs/server_scripts/hostile-neural-networks.js"
 hash = "97a047fed1a3ea36df98a0da1ca8a0ff9fce1c0ceffd2b62adae1ec078856dc9"
 
 [[files]]
+file = "kubejs/server_scripts/mekanism/recipies.js"
+hash = "83b51b0f7a6c0c2b3cb31b64dd8ce22e6703eeb29f0395139360e2d6b8f9596e"
+
+[[files]]
 file = "kubejs/server_scripts/nukelist.js"
 hash = "0a9dbf9be837bfae1c508dccb9823240fa06ab21400aa139256ab33025e0c4aa"
 
@@ -241,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-mekanism.pw.toml"
+hash = "d8e177615c38e56e8f712f9144c0f9f50e74adf5fe88c7fb0aa88e33cb1dbcdc"
 metafile = true
 
 [[files]]
