@@ -1,7 +1,11 @@
 ServerEvents.recipes(event => {
-	event.remove({ output: 'enderstorage:ender_chest' })
-    event.remove({ output: 'enderstorage:ender_tank' })
-    event.remove({ output: 'enderstorage:ender_pouch' })
+    const recipies = [
+        'enderstorage:ender_chest',
+        'enderstorage:ender_tank',
+        'enderstorage:ender_pouch'
+    ]
+
+	recipies.forEach(recipe => event.remove({ output: recipe }))
 	
     event.shaped('enderstorage:ender_chest', [
         'BWB',

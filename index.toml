@@ -66,7 +66,7 @@ hash = "5511e6087f92b236ccabb9f74117fc414716225061f06e235fe6b0d91e37ea2b"
 
 [[files]]
 file = "kubejs/server_scripts/ender-storage/recipies.js"
-hash = "88a78a4ad8a3ac4bc8dbffde8ec4e76dace7262e60e4ea1f87837abdedee0e6a"
+hash = "4763084a05acd4374cab000be1df5f790113ff2547e7eaae1a8f0dd2ac6ba56f"
 
 [[files]]
 file = "kubejs/server_scripts/hostile-neural-networks.js"
@@ -79,6 +79,10 @@ hash = "0a9dbf9be837bfae1c508dccb9823240fa06ab21400aa139256ab33025e0c4aa"
 [[files]]
 file = "kubejs/server_scripts/remove-crafting-recipies.js"
 hash = "9b6d99c81697c8a199d5739ee7c57d68d932d1c2a396d1a4e193fa9c9761d2ca"
+
+[[files]]
+file = "kubejs/server_scripts/rftools-builder/recipies.js"
+hash = "480ea8e9d76246170a15323d0f21332ef47f12ff45209eefa10d1a83f577f697"
 
 [[files]]
 file = "kubejs/startup_scripts/nukelist.js"
@@ -260,6 +264,11 @@ hash = "92f8cdfdc3e3f14a3cb6b35b639c955c87bed7d3089485e4e2a40fb50f70c94b"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "b9a0690a13cd849af6fe942cf34e5c44c4e5ac53c5f0b3bc986070ecb7f266b3"
+metafile = true
+
+[[files]]
 file = "mods/mekajadeupgrades.pw.toml"
 hash = "20ba1021bb3047a3c56ffa39b40c97638211934b3fb129b9ee9b66e99387822d"
 metafile = true
@@ -347,6 +356,16 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "8379747fafa54270c5565e0e243ca14e0f9ad1a6636fde0abac7db8a9d0deca1"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "71f638c4d9efeaca22061f5e5690e40710284928b836ec936ba8a375afa8dff1"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "ab4897860cab54da7523478c82681686f09312171f84554b446ffea0ccc53a96"
 metafile = true
 
 [[files]]
